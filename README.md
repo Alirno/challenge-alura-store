@@ -31,7 +31,7 @@ Este proyecto realiza un análisis completo del rendimiento de cuatro tiendas a 
 
 ---
 
-###Tecnologías Utilizadas
+### Tecnologías Utilizadas
 * Python 3.8+
 * matplotlib – Visualización de datos
 * numpy – Operaciones numéricas
