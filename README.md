@@ -1,4 +1,3 @@
-Claro, aquí tienes un ejemplo de `README.md` profesional y claro para tu proyecto de análisis de ventas por tienda:
 
 ---
 
