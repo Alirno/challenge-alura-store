@@ -44,5 +44,5 @@ Este proyecto realiza un análisis completo del rendimiento de cuatro tiendas a 
 
 * **Aldair Chero Flores**
   Estudiante de Ingeniería de Ciberseguridad
-  \[LinkedIn opcional] | \[GitHub opcional]
+  \www.linkedin.com/in/aldair-chero | \[GitHub opcional]
 
