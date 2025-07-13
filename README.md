@@ -7,26 +7,6 @@ Este proyecto realiza un análisis completo del rendimiento de cuatro tiendas a 
 
 ---
 
-## Estructura del Proyecto
-
-```
-📂 proyecto_ventas/
-├── analisis_ventas.py
-├── data/
-│   ├── tienda1.csv
-│   ├── tienda2.csv
-│   ├── tienda3.csv
-│   └── tienda4.csv
-├── output/
-│   ├── graficos/
-│   ├── resumenes/
-├── README.md
-```
-
-
-
-
-
 ## Funcionalidades Principales
 
 ### Análisis por Tienda
