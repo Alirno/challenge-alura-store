@@ -23,16 +23,9 @@ Este proyecto realiza un análisis completo del rendimiento de cuatro tiendas a 
 ├── README.md
 ```
 
----
 
-## ⚙️ Tecnologías Utilizadas
 
-* **Python 3.8+**
-* **pandas** – Manipulación de datos
-* **matplotlib** – Visualización de datos
-* **numpy** – Operaciones numéricas
 
----
 
 ## Funcionalidades Principales
 
