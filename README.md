@@ -31,7 +31,14 @@ Este proyecto realiza un análisis completo del rendimiento de cuatro tiendas a 
 
 ---
 
-## 📸 Ejemplos de Gráficos Generados
+###Tecnologías Utilizadas
+* Python 3.8+
+* matplotlib – Visualización de datos
+* numpy – Operaciones numéricas
+  
+---
+
+## Ejemplos de Gráficos Generados
 
 * Calificación promedio por tienda
 * Productos más y menos vendidos
